@@ -1,0 +1,12 @@
+.player-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+   
+}
+
+.player-card{
+    border: 2px solid;
+    min-width: 30%;
+    margin-top: 1rem;
+}

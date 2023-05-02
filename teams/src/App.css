@@ -1,0 +1,20 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-color: rgba(96, 245, 51, 0.944);
+}
+
+.button-style{
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+
+.button-style button{
+ padding: 2rem;
+ font-size: 30px;
+ text-decoration: none;
+ margin-top: 3rem;
+}
